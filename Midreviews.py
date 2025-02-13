@@ -3,9 +3,16 @@ from AI_review import review_press_kit
 from pdf import generate_pdf
 
 def mid_review(content, stage_name):
+        """
+    Mid-review feedback loop for generated content.
 
-    #user_input=get_user_input()
-    #tone=user_input.get("tone","Professional")
+    Parameters:
+    - content (str): The generated content to review.
+    - stage_name (str): A label for the current stage of content creation.
+
+    Returns:
+    - str: Final content after user feedback and potential modification.
+    """
     print(f"\n[Content Generation and Mid-Review].")
     print(f"\[Draft Preview - Style 1: Professional Tone]")
     print(f"\n--- {stage_name} Preview ---")
