@@ -65,11 +65,11 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 ## 2.Press Kit Components:
 * 📝 Provide details like the company name, press kit topic, and tone.
 * 🔄 Review and refine sections such as:
-* * 📜 Press Release (Draft)
+  * 📜 Press Release (Draft)
   *  🏢 Company Overview
-  *  * ✉️ PR Message
-     * * 📧 Email Draft
-       * * 📂 Supplementary Materials
+  *  ✉️ PR Message
+  *  📧 Email Draft
+  * 📂 Supplementary Materials
 
 ## 3.Language Support:
 * 🌐 Generate press kits in multiple languages by specifying your preferred language during the prompt phase.
@@ -86,3 +86,5 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 * googletrans: For multilingual support.
 * fpdf: For generating PDF output.
 
+# 🤝 Contribution
+We welcome contributions! Submit issues, feature requests, or pull requests directly to the repository.
