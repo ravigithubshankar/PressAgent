@@ -81,10 +81,22 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 *📤 Approve the final press kit and export it as a polished PDF for immediate use.
 
 # 🧰 APIs and Libraries Used
-* Groq API: For generating press kit content.
-* SerpAPI: For fetching supplementary news data.
-* googletrans: For multilingual support.
-* fpdf: For generating PDF output.
+## Core Functionality
+* ### 🤖 Groq API: Generates AI-powered content for the press kit.
+* ### 📰 SerpAPI: Fetches supplementary data for additional context.
+  
+## Python Libraries:
+* 🛠️ dotenv: Manages environment variables.
+* 🌐 requests: Handles API requests.
+* 🌍 googletrans: Translates content into multiple languages.
+* 🖨️ reportlab: Creates professional PDFs.
+* 💻 typer: Simplifies CLI interactions.
+  
+## Custom Modules:
+* 🧪 AI_review.py: Implements content quality checks and feedback.
+* 📄 pdf.py: Handles PDF generation.
+* 🔧 shared_functions.py: Provides reusable utilities like user input handling and content generation.
+* 📝 Midreviews.py: Facilitates mid-review of generated content.
 
 # 🤝 Contribution
 We welcome contributions! Submit issues, feature requests, or pull requests directly to the repository.
