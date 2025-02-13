@@ -60,6 +60,8 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 ## Working Demo
 
 
+https://github.com/user-attachments/assets/46599dfb-add4-416c-a28a-eabfcd00aaa4
+
 # 📦 Usage
 ## 1. Interactive Mode:
 
