@@ -3,6 +3,15 @@ from cli import get_user_input
 import os
 
 def get_supplementary_data(topic):
+        """
+    Fetches supplementary data related to the given topic using SerpAPI.
+
+    Parameters:
+    - topic (str): The topic for which supplementary data is required.
+
+    Returns:
+    - list: A list of top 3 news titles related to the topic.
+    """
     # Example using SerpAPI (you need to sign up and get an API key)
     api_key = os.getenv("SERPAPI_API_KEY")
     url = f"https://serpapi.com/search.json?q={topic}&api_key={api_key}"
