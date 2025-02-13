@@ -57,3 +57,32 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 5. Generate the Final PDF
 * Approve and save your press kit in PDF format 📄.
 
+# 📦 Usage
+## 1. Interactive Mode:
+
+* 🚦 Launch the CLI and follow step-by-step prompts to generate a customized press kit.
+
+## 2.Press Kit Components:
+* 📝 Provide details like the company name, press kit topic, and tone.
+* 🔄 Review and refine sections such as:
+* 📜 Press Release (Draft)
+* 🏢 Company Overview
+* ✉️ PR Message
+* 📧 Email Draft
+* 📂 Supplementary Materials
+
+## 3.Language Support:
+* 🌐 Generate press kits in multiple languages by specifying your preferred language during the prompt phase.
+
+## 4.Feedback Integration:
+* 🧑‍💻 Utilize mid-review and quality review phases to incorporate changes and ensure high-quality content.
+
+## 5.Export Options:
+*📤 Approve the final press kit and export it as a polished PDF for immediate use.
+
+# 🧰 APIs and Libraries Used
+* Groq API: For generating press kit content.
+* SerpAPI: For fetching supplementary news data.
+* googletrans: For multilingual support.
+* fpdf: For generating PDF output.
+
