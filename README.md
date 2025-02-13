@@ -58,7 +58,7 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 * Approve and save your press kit in PDF format 📄.
   
 ## Working Demo
-https://github.com/ravigithubshankar/PressAgent/blob/master/Demo.mp4
+
 
 # 📦 Usage
 ## 1. Interactive Mode:
