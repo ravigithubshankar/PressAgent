@@ -65,7 +65,7 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 ## 2.Press Kit Components:
 * 📝 Provide details like the company name, press kit topic, and tone.
 * 🔄 Review and refine sections such as:
-* 📜 Press Release (Draft)
+* * 📜 Press Release (Draft)
 * 🏢 Company Overview
 * ✉️ PR Message
 * 📧 Email Draft
