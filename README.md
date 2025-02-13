@@ -28,22 +28,24 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 # ⚡ Execution Steps
 ## 1. Run the Main Script
     python cli.py  
-   2.Follow Interactive Prompts
-   #Enter your company name, press kit topic, target media, and tone 🎤.
-   #Confirm the information ✅.
-   #Optionally include supplementary data 📂.
+    
+2.Follow Interactive Prompts
 
-Review and Approve
+Enter your company name, press kit topic, target media, and tone 🎤.
+Confirm the information ✅.
+Optionally include supplementary data 📂.
+
+3. Review and Approve
 
     Evaluate the draft with the mid-review option 🔄.
     Approve the final configuration ✍️.
 
-Quality Review Phase
+4. Quality Review Phase
 
     View content consistency, tone, layout, and SEO scores 📊.
     Modify based on AI feedback if needed 💡.
 
-Generate the Final PDF
+5. Generate the Final PDF
 
     Approve and save your press kit in PDF format 📄.
 
