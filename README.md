@@ -29,10 +29,9 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 ## 1. Run the Main Script
     python cli.py  
    2.Follow Interactive Prompts
-
-    Enter your company name, press kit topic, target media, and tone 🎤.
-    Confirm the information ✅.
-    Optionally include supplementary data 📂.
+   #Enter your company name, press kit topic, target media, and tone 🎤.
+   #Confirm the information ✅.
+   #Optionally include supplementary data 📂.
 
 Review and Approve
 
