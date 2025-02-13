@@ -2,6 +2,15 @@ from shared_functions import get_user_input,generate_press_kit_content
 from shared_functions import get_supplementary_data
 
 def review_press_kit(content):
+      """
+    Reviews the quality of the press kit content based on predefined criteria.
+
+    Parameters:
+    - content (str): The press kit content to review.
+
+    Returns:
+    - dict: A dictionary containing scores, feedback, and overall evaluation.
+    """
     # Simple review based on length and keywords
     score = 0
     feedback = []
