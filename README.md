@@ -21,7 +21,7 @@ PressAgent is your go-to AI-powered tool for generating professional, engaging, 
 
 ## Clone the Repository
 
-    git clone https://github.com/username/PressAgent.git  
+    git clone https://github.com/ravigithubshankar/PressAgent.git  
     cd PressAgent  
     
 ## Set Up Dependencies
